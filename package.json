@@ -1,0 +1,19 @@
+{
+  "name": "scdodeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploycontract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "solc": "^0.5.13",
+    "terminal-kit": "^1.32.1",
+    "web3": "^1.2.4",
+    "secp256k1": "^3.7.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
